@@ -1,24 +1,7 @@
-                   SEMS OPEN SOURCE LICENSE
-                  Version 1, August 2019(Draft)
-
-Copyright (C) 2019 Chris Ying <877259039@qq.com>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-                    SEMS OPEN SOURCE LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
- 1.You are free to modify this software and even integrate this software into your project.
- 2.The code that involves the core content can be decided by the project whether it is open source, but it needs to be
- stated in readme beforehand.
- 3.The code for the core content can be determined by the project to decide whether to allow commercial use, but it
- needs to be stated in readme beforehand.
- 4.If the project is approved for commercial use, please indicate before the commercial use that the commercial software
- uses (or is based on) the technology of the project.
- 5.The project shall not be used for illegal or prohibited purposes.
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
- WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
- COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
- OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                       经管校公共许可证（教育用途开源软件许可）（中文版）
+任何人都可以对“软件”的使用、修改、再分发，但必须要遵循以下规定：
+1、允许经过修改后再分发，但只能使用相同的许可证，并且需要注明更改记录。
+2、不得将软件用于商业用途。
+3、允许修改后闭源（个人使用）。
+4、无论是再分发还是用于商业用途，必须要保留“软件”中的版权、商标、专利及免责声明。
+5、不得将软件用于非法用途，因非法使用造成的法律后果由分发者自行承担，原作者不承担任何法律责任。
