@@ -34,3 +34,14 @@ Anyone can use, modify, or redistribute the Software, but must comply with the f
 5. Please indicate the source code source when distributing, and retain the copyright, trademark, patent and disclaimer in the Software.
 
 6. The software may not be used for illegal purposes. The legal consequences caused by illegal use shall be borne by the distributor, and the original author shall not bear any legal responsibility.
+
+## 经管公共许可证（教育或个人使用开源软件许可）（简单粗暴版）
+每个人可以复制黏贴、使用或再分享该软件，但是：
+
+1. 可以用于教学或者个人及组织内部使用，也可以分享给好友使用，**但是不能售卖该软件（即使是修改过的）**。
+
+2. 修改源代码后请注明修改的部分。
+
+3. 每次分享请注明出处
+
+4. **不能使用该软件用于违法犯罪行为。（比如说坑小伙伴等等），到时候牢底坐穿别怪许可证没提醒过你！**
