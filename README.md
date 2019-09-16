@@ -19,7 +19,7 @@ SEMS开源协议
 
 6、不得将软件用于非法用途，因非法使用造成的法律后果由分发者自行承担，原作者不承担任何法律责任。
 
-## SEMS Public License（Education or Personal Use Of Open Source Software Licenses）（In English）
+## SEMS Public License（Education or Personal Use of Open Source Software Licenses）（In English）
 
 Anyone can use, modify, or redistribute the Software, but must comply with the following rules:
 
